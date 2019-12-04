@@ -1,7 +1,7 @@
 [![License](https://img.shields.io/badge/license-Apache%202.0-green.svg)](https://github.com/OzoneApps/OzoneCalculator/blob/master/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/OzoneApps/OzoneCalculator/pulls)
 [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-blue.svg)](https://flutter.dev/)
-[![Telegram Group](https://img.shields.io/badge/Join%20us%20at-Telegram-blue.svg)](https://t.me/joinchat/IgDgDxRNassU3epD2LJWzw)
+[![Telegram Group](https://img.shields.io/badge/Join%20us%20at-Telegram-blue.svg)](https://t.me/joinchat/IgDgDxYG2Pkh-OUngbr0tA)
 
 # Ozone Calculator
 
